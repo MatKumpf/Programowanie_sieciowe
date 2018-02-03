@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+
+<Pop3Server>pop3.wp.pl</Pop3Server>
+<PortServer>110</PortServer>
+<Username>testmailzut</Username>
+<Password>prosteHaslo</Password>
+<UpdateTimeMilliseconds>5000</UpdateTimeMilliseconds>
+
+</configuration>
